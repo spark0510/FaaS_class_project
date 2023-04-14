@@ -1,5 +1,5 @@
 # FaaS_project
-These are benchmarks and bash scripts to operate them for the class project.
+These are benchmarks and bash scripts for the class project.
 
 # install.sh 
 Bash script that installs OpenWhisk on the local machine.
